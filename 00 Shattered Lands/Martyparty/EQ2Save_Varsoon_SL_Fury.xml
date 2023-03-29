@@ -68,23 +68,23 @@
 			<Set Name="Aliases">
 				<Set Name="1">
 					<Setting Name="__SourceName">*MT</Setting>
-					<Setting Name="For"> </Setting>
+					<Setting Name="For">EditMe</Setting>
 				</Set>
 				<Set Name="2">
 					<Setting Name="__SourceName">*MeleeDPS</Setting>
-					<Setting Name="For"> </Setting>
+					<Setting Name="For">EditMe</Setting>
 				</Set>
 				<Set Name="3">
 					<Setting Name="__SourceName">*MeleeDPS</Setting>
-					<Setting Name="For"> </Setting>
+					<Setting Name="For">EditMe</Setting>
 				</Set>
 				<Set Name="4">
 					<Setting Name="__SourceName">*MageDPS1</Setting>
-					<Setting Name="For"> </Setting>
+					<Setting Name="For">EditMe</Setting>
 				</Set>
 				<Set Name="5">
 					<Setting Name="__SourceName">*Tank</Setting>
-					<Setting Name="For"> </Setting>
+					<Setting Name="For">EditMe</Setting>
 				</Set>
 			</Set>
 			<Set Name="CastStack">
@@ -290,23 +290,23 @@
 			<Set Name="Aliases">
 				<Set Name="1">
 					<Setting Name="__SourceName">*MageDPS1</Setting>
-					<Setting Name="For"> </Setting>
+					<Setting Name="For">EditMe</Setting>
 				</Set>
 				<Set Name="2">
 					<Setting Name="__SourceName">*MageDPS2</Setting>
-					<Setting Name="For"> </Setting>
+					<Setting Name="For">EditMe</Setting>
 				</Set>
 				<Set Name="3">
 					<Setting Name="__SourceName">*Enchanter</Setting>
-					<Setting Name="For"> </Setting>
+					<Setting Name="For">EditMe</Setting>
 				</Set>
 				<Set Name="4">
 					<Setting Name="__SourceName">*Tank</Setting>
-					<Setting Name="For"> </Setting>
+					<Setting Name="For">EditMe</Setting>
 				</Set>
 				<Set Name="5">
 					<Setting Name="__SourceName">*MT</Setting>
-					<Setting Name="For"> </Setting>
+					<Setting Name="For">EditMe</Setting>
 				</Set>
 			</Set>
 			<Set Name="CastStack">
