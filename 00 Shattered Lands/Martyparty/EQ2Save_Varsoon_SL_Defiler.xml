@@ -77,19 +77,19 @@
 			<Set Name="Aliases">
 				<Set Name="1">
 					<Setting Name="__SourceName">*DPS1</Setting>
-					<Setting Name="For"> </Setting>
+					<Setting Name="For">EditMe</Setting>
 				</Set>
 				<Set Name="2">
 					<Setting Name="__SourceName">*Tank</Setting>
-					<Setting Name="For"> </Setting>
+					<Setting Name="For">EditMe</Setting>
 				</Set>
 				<Set Name="3">
 					<Setting Name="__SourceName">*Healer2</Setting>
-					<Setting Name="For"> </Setting>
+					<Setting Name="For">EditMe</Setting>
 				</Set>
 				<Set Name="4">
 					<Setting Name="__SourceName">*Lifeburn</Setting>
-					<Setting Name="For"> </Setting>
+					<Setting Name="For">EditMe</Setting>
 				</Set>
 			</Set>
 			<Set Name="CastStack">
